@@ -1,6 +1,51 @@
 {
   "guides": [
     {
+      "slug": "full-stack-featured-repos-nov-2026",
+      "path": "guides/full-stack-featured-repos-nov-2026/index.md",
+      "pdf": "guides/full-stack-featured-repos-nov-2026/guide.pdf",
+      "title": "Full Stack’s Featured Repos, Nov 10–24, 2026: Step-by-Step Try-It Guide",
+      "source_url": "https://www.youtube.com/channel/UC_GBIzXUzVTV9r7GKpu6IWw/videos",
+      "source_type": "youtube",
+      "author": "Full Stack",
+      "channel": "Full Stack",
+      "topics": [
+        "github",
+        "ai-agents",
+        "web-scraping",
+        "self-hosting",
+        "software-supply-chain"
+      ],
+      "tags": [
+        "github",
+        "ai-agents",
+        "browser-automation",
+        "web-scraping",
+        "self-hosting",
+        "llm-training",
+        "design-tools",
+        "security",
+        "open-source"
+      ],
+      "difficulty": "intermediate",
+      "date": "2026-11-24",
+      "standards_cited": [
+        "OWASP Top 10 for LLM Applications",
+        "OWASP SSRF Prevention Cheat Sheet",
+        "RFC 9309 Robots Exclusion Protocol",
+        "OpenSSF Scorecard / SLSA",
+        "NIST SSDF SP 800-218",
+        "NIST SP 800-190",
+        "CIS Benchmarks",
+        "NIST AI Risk Management Framework",
+        "Design Tokens Community Group format",
+        "WCAG 2.2",
+        "US Copyright Office fair use"
+      ],
+      "duration": "1h 36m (7 videos)",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/76482a0a-3c23-4d40-82ff-80a215f5ea16"
+    },
+    {
       "slug": "free-devops-roadmap",
       "path": "guides/free-devops-roadmap/index.md",
       "pdf": "guides/free-devops-roadmap/guide.pdf",
