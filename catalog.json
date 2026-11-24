@@ -1,0 +1,154 @@
+{
+  "guides": [
+    {
+      "slug": "free-devops-roadmap",
+      "path": "guides/free-devops-roadmap/index.md",
+      "pdf": "guides/free-devops-roadmap/guide.pdf",
+      "title": "Free DevOps Roadmap: Step-by-Step Study Guide",
+      "source_url": "https://www.linkedin.com/posts/david-popoola-op_devops-sre-cloudcomputing-share-7530280973574238208-WZg9/",
+      "source_type": "linkedin",
+      "author": "David Popoola",
+      "channel": "David Popoola",
+      "topics": [
+        "devops",
+        "linux",
+        "kubernetes",
+        "cicd",
+        "terraform"
+      ],
+      "tags": [
+        "devops",
+        "linux",
+        "docker",
+        "kubernetes",
+        "terraform",
+        "cicd",
+        "aws"
+      ],
+      "difficulty": "beginner-to-intermediate",
+      "date": "2026-11-23",
+      "standards_cited": [
+        "Amazon EKS pricing",
+        "Top 10 CI/CD Security Risks",
+        "Configuration best practices",
+        "Kubernetes security concepts",
+        "Chart best practices",
+        "Terraform style guide",
+        "OpenTofu"
+      ],
+      "duration": "60h 48m",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/f4335389-ba0f-40af-8023-29186f7d04f3"
+    },
+    {
+      "slug": "top-10-github-repos",
+      "path": "guides/top-10-github-repos/index.md",
+      "pdf": "guides/top-10-github-repos/guide.pdf",
+      "title": "This Week’s Top 10 GitHub Repos: Step-by-Step Try-It Guide",
+      "source_url": "https://youtu.be/Blo_TXR-S-4",
+      "source_type": "youtube",
+      "author": "Full Stack",
+      "channel": "Full Stack",
+      "topics": [
+        "github",
+        "ai-agents",
+        "software-supply-chain"
+      ],
+      "tags": [
+        "github",
+        "ai-agents",
+        "security",
+        "open-source",
+        "supply-chain"
+      ],
+      "difficulty": "intermediate",
+      "date": "2026-11-19",
+      "standards_cited": [
+        "OWASP Top 10 for LLM Applications",
+        "NIST AI Risk Management Framework",
+        "NIST SSDF SP 800-218",
+        "OpenSSF Scorecard / SLSA",
+        "GitHub Actions security hardening and encrypted secrets",
+        "FINRA and SEC investor alerts on AI",
+        "WCAG 2.2 AA",
+        "3-2-1 backups",
+        "Agent Skills specification"
+      ],
+      "duration": "24:17",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/c20ff097-32c8-4f86-aa17-5ee85fa09718"
+    },
+    {
+      "slug": "uncensored-ai-in-3-levels",
+      "path": "guides/uncensored-ai-in-3-levels/index.md",
+      "pdf": "guides/uncensored-ai-in-3-levels/guide.pdf",
+      "title": "Uncensored AI in 3 Levels: Step-by-Step Guide",
+      "source_url": "https://youtu.be/bc7QaDmLmoA",
+      "source_type": "youtube",
+      "author": "Jack Roberts",
+      "channel": "Jack Roberts",
+      "topics": [
+        "ai",
+        "llm",
+        "privacy",
+        "security"
+      ],
+      "tags": [
+        "ai",
+        "llm",
+        "ollama",
+        "tailscale",
+        "privacy",
+        "uncensored-models",
+        "security"
+      ],
+      "difficulty": "intermediate",
+      "date": "2026-11-19",
+      "standards_cited": [
+        "CIS Ubuntu Linux Benchmark",
+        "OWASP Top 10 for LLM Applications",
+        "AI Risk Management Framework"
+      ],
+      "duration": "22:42",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/37b04f4a-3fce-4070-8ef6-e7f32c76f2eb"
+    },
+    {
+      "slug": "home-lab-services",
+      "path": "guides/home-lab-services/index.md",
+      "pdf": "guides/home-lab-services/guide.pdf",
+      "title": "Home Lab Services: Step-by-Step Build Guide",
+      "source_url": "https://youtu.be/Pp-OuIpXF90",
+      "source_type": "youtube",
+      "author": "WunderTech",
+      "channel": "WunderTech",
+      "topics": [
+        "home-lab",
+        "self-hosting",
+        "backups",
+        "networking"
+      ],
+      "tags": [
+        "home-lab",
+        "self-hosting",
+        "docker",
+        "proxmox",
+        "backups",
+        "networking",
+        "monitoring"
+      ],
+      "difficulty": "intermediate",
+      "date": "2026-11-12",
+      "standards_cited": [
+        "Back Up Business Data (3-2-1 rule)",
+        "Data Backup Options",
+        "SP 800-63B-4 Authentication guidelines",
+        "More than a password (MFA)",
+        "SP 800-207 Zero Trust Architecture",
+        "RFC 8375: Special-Use Domain home.arpa",
+        "Challenge types (DNS-01)",
+        "CIS Critical Security Controls",
+        "Docker Engine security"
+      ],
+      "duration": "15:37",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/356ffc00-e486-4451-b4cf-0215b1d900ae"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");
+
+:root,
+[data-md-color-scheme="slate"] {
+  --goc-bg: #07090a;
+  --goc-surface: #0b0e10;
+  --goc-text: #f4f5f3;
+  --goc-muted: #afb4b6;
+  --goc-line: rgba(255, 255, 255, 0.18);
+  --goc-amber: #e65f00;
+  --goc-amber-hover: #ff7620;
+  --goc-green: #3ee6a2;
+  --md-default-bg-color: var(--goc-bg);
+  --md-default-fg-color: var(--goc-text);
+  --md-default-fg-color--light: var(--goc-muted);
+  --md-default-fg-color--lighter: #8b9295;
+  --md-primary-fg-color: var(--goc-bg);
+  --md-primary-bg-color: var(--goc-text);
+  --md-accent-fg-color: var(--goc-amber);
+  --md-typeset-a-color: var(--goc-green);
+  --md-typeset-table-color: var(--goc-line);
+  --md-footer-bg-color: var(--goc-surface);
+  --md-code-bg-color: #101416;
+  --md-code-fg-color: var(--goc-text);
+}
+
+body, .md-typeset {
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+  background: var(--goc-bg);
+  color: var(--goc-text);
+}
+
+.md-header, .md-tabs, .md-footer, .md-nav--primary .md-nav__title {
+  background-color: var(--goc-surface);
+}
+
+.md-header__topic, .md-header__title {
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-weight: 800;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", Inter, sans-serif;
+  color: var(--goc-text);
+}
+
+.md-typeset h1 {
+  letter-spacing: -0.02em;
+}
+
+.md-typeset a:hover {
+  color: var(--goc-amber-hover);
+}
+
+.md-typeset .md-button--primary,
+.md-typeset a.md-button {
+  border-color: var(--goc-amber);
+}
+
+.md-search-result__meta, .md-typeset .md-tag {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.md-typeset table:not([class]) {
+  background: var(--goc-surface);
+  border: 1px solid var(--goc-line);
+}
+
+.md-typeset table:not([class]) th {
+  background: #101416;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  background: var(--goc-surface);
+  border-color: var(--goc-amber);
+}
+
+.md-typeset .md-tag {
+  background: #101416;
+  color: var(--goc-green);
+  border: 1px solid var(--goc-line);
+}
