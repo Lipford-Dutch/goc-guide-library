@@ -1,6 +1,43 @@
 {
   "guides": [
     {
+      "slug": "100-strange-facts-fact-checked",
+      "path": "guides/100-strange-facts-fact-checked/index.md",
+      "pdf": "guides/100-strange-facts-fact-checked/guide.pdf",
+      "title": "100 Strange Facts, Fact-Checked: A Verification Guide",
+      "source_url": "https://youtu.be/55Uw8GF_SZU",
+      "source_type": "youtube",
+      "author": "Mike Estrin",
+      "channel": "List 25",
+      "topics": [
+        "fact-checking",
+        "media-literacy",
+        "science",
+        "history"
+      ],
+      "tags": [
+        "fact-checking",
+        "media-literacy",
+        "trivia",
+        "science",
+        "history",
+        "list25"
+      ],
+      "difficulty": "beginner",
+      "date": "2026-11-24",
+      "standards_cited": [
+        "SIFT (Caulfield)",
+        "CRAAP test",
+        "IFCN Code of Principles",
+        "Kawchuk et al. PLOS ONE 2015",
+        "Crowther et al. Nature 2015",
+        "Population Reference Bureau",
+        "IMLS Public Libraries Survey"
+      ],
+      "duration": "53:53",
+      "page_url": "https://cursor.com/canvas/store-6dc5dbe7-5708-4a11-8439-0bfe0e9a7646/6ab2cad9-9534-418b-bc4e-3329df7c4f13"
+    },
+    {
       "slug": "full-stack-featured-repos-nov-2026",
       "path": "guides/full-stack-featured-repos-nov-2026/index.md",
       "pdf": "guides/full-stack-featured-repos-nov-2026/guide.pdf",
